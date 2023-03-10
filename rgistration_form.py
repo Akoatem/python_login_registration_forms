@@ -25,14 +25,6 @@ def show():
     passwordEntry.config(show='')
     eyeButton.config(command=hide)
 
-
-
-
-#def opened():
-    #closeeye.config(file='images/openeye.png')
-
-
-
 # GUI part
 
 login_window = Tk()
