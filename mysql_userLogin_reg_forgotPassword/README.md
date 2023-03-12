@@ -8,4 +8,4 @@
 4. Creating mysql database for connectivity using mysql-connector
 <img width="335" alt="Screenshot (6)" src="https://user-images.githubusercontent.com/71437843/224552360-14dfb583-ad98-4caf-a236-38f89b5bae33.png">
 
-       Author: Ako Atem Sampson
+       Author: Ako Atem Sampson.
